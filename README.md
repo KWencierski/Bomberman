@@ -5,3 +5,5 @@ with arrows and plants bombs with enter. The second one plays as a goblin and ca
 with WSAD and plants bombs with E. The player, who loses all of their health points first,
 loses the game. The whole map is filled with boxes. Destroing them, gives players a chance to 
 earn various power-ups. Enjoy the game!
+
+Short presentation of the game: https://drive.google.com/file/d/1utcVsMEkV1ncEh5gd0751QSR_Tx9PydA/view?usp=sharing
